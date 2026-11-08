@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Hospitality Web GEO Audit
+message: If you use this method or its sample evidence, cite the repository and report ID.
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Yifan
+date-released: 2026-11-09
+url: https://github.com/3338902669-ops/hospitality-web-geo-audit
+repository-code: https://github.com/3338902669-ops/hospitality-web-geo-audit
+abstract: A reproducible method and raw sample reports for inspecting the delivered HTML, CSS and machine-readable content of public hospitality webpages.
+keywords:
+  - hospitality
+  - web-audit
+  - GEO
+  - accessibility
+  - structured-data
+  - technical-seo
