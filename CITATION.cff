@@ -6,6 +6,8 @@ authors:
   - family-names: Zheng
     given-names: Yifan
 date-released: 2026-11-09
+version: 1.0.1
+license: MIT
 url: https://github.com/3338902669-ops/hospitality-web-geo-audit
 repository-code: https://github.com/3338902669-ops/hospitality-web-geo-audit
 abstract: A reproducible method and raw sample reports for inspecting the delivered HTML, CSS and machine-readable content of public hospitality webpages.

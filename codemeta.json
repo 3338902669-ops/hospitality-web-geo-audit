@@ -1,0 +1,50 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "https://github.com/3338902669-ops/hospitality-web-geo-audit",
+  "name": "Hospitality Web GEO Audit",
+  "description": "A reproducible method and public evidence set for inspecting delivery, HTML, same-origin CSS, accessibility signals and machine-readable content on public hospitality websites.",
+  "version": "1.0.1",
+  "datePublished": "2026-11-09",
+  "license": "https://spdx.org/licenses/MIT",
+  "codeRepository": "https://github.com/3338902669-ops/hospitality-web-geo-audit",
+  "issueTracker": "https://github.com/3338902669-ops/hospitality-web-geo-audit/issues",
+  "readme": "https://github.com/3338902669-ops/hospitality-web-geo-audit/blob/main/README.md",
+  "softwareHelp": "https://github.com/3338902669-ops/hospitality-web-geo-audit/blob/main/METHOD.md",
+  "isAccessibleForFree": true,
+  "conditionsOfAccess": "The method and sample evidence are public. The hosted checker is free and requires no account for a single public URL.",
+  "author": {
+    "@type": "Person",
+    "@id": "https://github.com/3338902669-ops",
+    "givenName": "Yifan",
+    "familyName": "Zheng",
+    "url": "https://github.com/3338902669-ops"
+  },
+  "maintainer": {
+    "@id": "https://github.com/3338902669-ops"
+  },
+  "programmingLanguage": [
+    "PowerShell",
+    "JSON"
+  ],
+  "runtimePlatform": "PowerShell 7",
+  "operatingSystem": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "applicationCategory": "Web development",
+  "keywords": [
+    "hospitality",
+    "web audit",
+    "generative engine optimization",
+    "technical SEO",
+    "accessibility",
+    "structured data",
+    "reproducible evidence"
+  ],
+  "relatedLink": [
+    "https://check.morphostech.com/check",
+    "https://morphostech.com/"
+  ]
+}

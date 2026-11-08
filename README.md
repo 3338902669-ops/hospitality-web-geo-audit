@@ -9,6 +9,9 @@ Maintained by [Yifan Zheng](https://github.com/3338902669-ops) at
 [Morphos Studio](https://morphostech.com/). The free implementation is at
 [check.morphostech.com/check](https://check.morphostech.com/check).
 
+Machine-readable citation and software metadata are available in
+[`CITATION.cff`](CITATION.cff) and [`codemeta.json`](codemeta.json).
+
 ## Why this repository exists
 
 Most website-audit pages return a number and keep the reasoning out of view.
