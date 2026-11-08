@@ -1,5 +1,7 @@
 # Hospitality Web GEO Audit
 
+English | [简体中文](README.zh-CN.md)
+
 A reproducible, openly documented method for inspecting the public HTML and
 same-origin CSS of hospitality websites. The method combines delivery,
 front-end, visual-system, accessibility, backend-posture, security-exposure

@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Added a Simplified Chinese guide covering the public method, samples,
+  interpretation and evidence limits.
+
 ## 1.0.1 — 2026-11-09
 
 - Added CodeMeta 2.0 software metadata for research-software and repository
