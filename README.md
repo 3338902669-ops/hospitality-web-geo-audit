@@ -137,3 +137,9 @@ When referring to the method, cite the repository and the report ID:
 
 The text and scripts may be cited with attribution. The reports describe
 third-party public pages and remain subject to those sites' rights.
+
+## Licence
+
+The scripts and original documentation are available under the MIT Licence.
+The sample reports remain evidence of public third-party pages and do not
+grant rights to the copy, imagery or marks described in those responses.
