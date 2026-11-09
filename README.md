@@ -1,7 +1,5 @@
 # Hospitality Web GEO Audit
 
-English | [简体中文](README.zh-CN.md)
-
 A reproducible, openly documented method for inspecting the public HTML and
 same-origin CSS of hospitality websites. The method combines delivery,
 front-end, visual-system, accessibility, backend-posture, security-exposure
@@ -11,8 +9,8 @@ Maintained by [Yifan Zheng](https://github.com/3338902669-ops) at
 [Morphos Studio](https://morphostech.com/). The free implementation is at
 [check.morphostech.com/check](https://check.morphostech.com/check).
 
-Machine-readable citation and software metadata are available in
-[`CITATION.cff`](CITATION.cff) and [`codemeta.json`](codemeta.json).
+Long-form note:
+[A Website Audit Is More Useful When It Shows Its Work](articles/website-audit-shows-its-work.md).
 
 ## Why this repository exists
 
